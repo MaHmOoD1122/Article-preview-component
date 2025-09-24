@@ -8,4 +8,5 @@ I made this project based on challenge on frontend mentor named 'Article preview
  - CSS Grid
  - JavaScript
 
- ##link of the project
+ ## link of the project
+https://mahmood1122.github.io/Article-preview-component/
